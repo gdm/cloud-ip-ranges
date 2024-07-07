@@ -18,4 +18,5 @@ which shows their assigned IP ranges.
 
 * Azure - https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
 * Tencent Cloud
+   https://www.tencentcloud.com/document/product/597/54447
 * Alibaba Cloud (Aliyun)
